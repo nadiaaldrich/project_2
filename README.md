@@ -6,17 +6,26 @@
 [![Header](https://raw.githubusercontent.com/nadiaaldrich/project_2/main/project2_logo.png "Header")](https://asylumseekersapp.herokuapp.com/)
 
 
+---
 
 
-## Background:
+# Background:
 
 The UN Refugee Agency, [**UNHCR**](https://www.unhcr.org/en-us/about-us.html), is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
 
 This agency gathers data that covers the movement of displaced persons.
 
-#### **Our goal was to create an interactive web application to help us visualize the movement of these people.** 
+---
 
+# Our goal: 
 
+To create an interactive web application to help us visualize the movement of people and to answer the following:
+
+> **1. Who are the top 25 host countries?**
+---
+> **2.**
+
+---
 
 ## Data Used:
 

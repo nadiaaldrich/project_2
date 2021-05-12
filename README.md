@@ -7,14 +7,14 @@
 
 ## Background:
 
-**UNHCR**, the UN Refugee Agency, is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
+The UN Refugee Agency, [**UNHCR**](https://www.unhcr.org/en-us/about-us.html), is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
 
-This agency gathers data that covers the movement of displaced persons (asylum seekers, refugees, internally displaced persons (IDP), and stateless). 
+This agency gathers data that covers the movement of displaced persons.
 
 **Our goal was to create an interactive web application to help us visualize the movement of these people.** 
 
+## Data:
 
-## Data
 This dataset includes 3 csv files:
 
 File Name | Contents
@@ -24,7 +24,8 @@ File Name | Contents
 **coordinates_file.csv** | country, lat, long, # of refugees
 
 
-## Talk about data clean up
+## Clean-up: 
+
 ## Obstacles?
 ## Demo the app 
 

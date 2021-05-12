@@ -1,4 +1,5 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/kflores56/project_2?label=members&logo=Github&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kflores56/project_2?style=for-the-badge)
 [![Header](https://raw.githubusercontent.com/nadiaaldrich/project_2/main/project2_logo.png "Header")](https://asylumseekersapp.herokuapp.com/)
 
 [![Contributors][contributors-shield]][contributors-url]

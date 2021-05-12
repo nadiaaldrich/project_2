@@ -1,9 +1,14 @@
+[![Header](https://raw.githubusercontent.com/nadiaaldrich/project_2/main/project2_logo.png "Header")](https://asylumseekersapp.herokuapp.com/)
+
+
+
 <br />
 <p align="center">
   <a href="https://github.com/nadiaaldrich">
     <img src="project2_logo.png" alt="Logo" width=100% height=100%>
   </a>
-
+  
+ [![Contributors][contributors-shield]][contributors-url]
 
 
 
@@ -13,7 +18,7 @@ The UN Refugee Agency, [**UNHCR**](https://www.unhcr.org/en-us/about-us.html), i
 
 This agency gathers data that covers the movement of displaced persons.
 
-### **Our goal was to create an interactive web application to help us visualize the movement of these people.** 
+#### **Our goal was to create an interactive web application to help us visualize the movement of these people.** 
 
 
 
@@ -27,23 +32,22 @@ File Name | Contents
 
 
 
-## Development : 
+## Development: 
 -  `jupyter notebook` to rename and delete columns
 -  created databases in `PostgresSQL`
--  `Flask` to create APIs
+-  `Python` and `Flask` to create APIs
+-  `Javascript, D3.js, Leaflet, Mapbox, CSS, Bootstrap, Beautify.js` 
 -  deployment with `Heroku`
 
-## Obstacles?
-## Demo the app 
+
+## Demo the app:
+
+[**Click Here**](https://asylumseekersapp.herokuapp.com/)
 
 
-### Created with Flask, Python 3.6 and PostGres.
-Additional tools: D3.js, Plotly.js, JQuery, Leaflet, Mapbox, Javascript, Tweepy, CSS-grid.
-
-Deployment: Heroku.
 
 ## Acknowlegdements: 
-This data was downlo
+The original data was downloaded from [kaggle](https://www.kaggle.com/unitednations/refugee-data)
 
 
 

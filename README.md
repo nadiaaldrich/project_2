@@ -17,13 +17,13 @@ This agency gathers data that covers the movement of displaced persons.
 
 ---
 
-# Our goal: 
+# Objective: 
 
-To create an interactive web application to help us visualize the movement of people and to answer the following:
+Create an interactive web application to help us visualize the movement of people seeking refuge and to answer the following:
 
-> **1. Who are the top 25 host countries?**
+**1. Who are the top 25 host countries?**
 ---
-> **2.**
+**2.**
 
 ---
 
@@ -43,6 +43,10 @@ File Name | Contents
 -  `Python` and `Flask` to create APIs
 -  `Javascript, D3.js, Leaflet, Mapbox, CSS, Bootstrap, Beautify.js` 
 -  deployment with `Heroku`
+<p>
+  <a href="https:github.com/nadiaaldrich/project_2/main"><img width="300" align='right' src="cloud.png?raw=true"></a>
+</p>
+
 
 
 ## Demo the app:

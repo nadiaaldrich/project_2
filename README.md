@@ -40,12 +40,17 @@ File Name | Contents
 ## Development: 
 -  `jupyter notebook` to rename and delete columns
 -  created databases in `PostgresSQL`
+
+<a href="https:github.com/nadiaaldrich/project_2/main"><img width="100" align='right' src="files_icon.png?raw=true"></a>
 -  `Python` and `Flask` to create APIs
--  `Javascript, D3.js, Leaflet, Mapbox, CSS, Bootstrap, Beautify.js` 
+-  `Javascript, D3.js, Leaflet, Mapbox, CSS, Bootstrap, Beautify.js`
+
+<a href="https:github.com/nadiaaldrich/project_2/main"><img width="100" align='right' src="visuals.png?raw=true"></a> 
+
 -  deployment with `Heroku`
-<p>
-  <a href="https:github.com/nadiaaldrich/project_2/main"><img width="300" align='right' src="cloud.png?raw=true"></a>
-</p>
+
+<a href="https:github.com/nadiaaldrich/project_2/main"><img width="100" align='right' src="cloud.png?raw=true"></a>
+
 
 
 

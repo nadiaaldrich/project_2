@@ -1,10 +1,15 @@
-![GitHub contributors](https://img.shields.io/github/contributors/kflores56/project_2?label=members&logo=Github&style=for-the-badge)
+[![GitHub contributors](https://img.shields.io/github/contributors/kflores56/project_2?logo=Github&style=for-the-badge)](https://github.com/kflores56/project_2/graphs/contributors)
+[contributors-url]: https://github.com/kflores56/project_2/graphs/contributors
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kflores56/project_2?style=for-the-badge)
-[![Header](https://raw.githubusercontent.com/nadiaaldrich/project_2/main/project2_logo.png "Header")](https://asylumseekersapp.herokuapp.com/)
 
 [![Contributors][contributors-shield]][contributors-url]
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]![GitHub contributors](https://img.shields.io/github/contributors/nadiaaldrich/project_2?label=members&logo=Github&style=social)
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+
+
+[![Header](https://raw.githubusercontent.com/nadiaaldrich/project_2/main/project2_logo.png "Header")](https://asylumseekersapp.herokuapp.com/)
+
+
 
 
 ## Background:

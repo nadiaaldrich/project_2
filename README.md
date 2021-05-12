@@ -21,9 +21,11 @@ This agency gathers data that covers the movement of displaced persons.
 
 Create an interactive web application to help us visualize the movement of people seeking refuge and to answer the following:
 
-**1. Who are the top 25 host countries?**
----
-**2.**
+
+*1. What are the top 25 countries hosting refugees?*
+*2. Question 2
+*3. Question 3
+
 
 ---
 

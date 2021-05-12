@@ -12,6 +12,7 @@ This agency gathers data that covers the movement of displaced persons (asylum s
 
 ## Our goal was to create an interactive web application to help us visualize the movement of these people. 
 
+
 ## Content:
 This dataset includes 6 csv files covering:
 
@@ -21,6 +22,12 @@ Refugee demographics (demographics.csv)
 Yearly time series data on UNHCR’s populations of concern (time_series.csv)
 Yearly population statistics on refugees by residence and destination (personsofconcern.csv)
 Yearly data on resettlement arrivals, with or without UNHCR assistance (resettlement.csv)
+
+
+## Talk about data clean up
+## Obstacles?
+## Demo the app 
+
 
 ### Created with Flask, Python 3.6 and PostGres.
 Additional tools: D3.js, Plotly.js, JQuery, Leaflet, Mapbox, Javascript, Tweepy, CSS-grid.

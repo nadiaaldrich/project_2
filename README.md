@@ -8,7 +8,9 @@
 
 UNHCR, the UN Refugee Agency, is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
 
-This agency gathers data that covers the movement of displaced persons (asylum seekers, refugees, internally displaced persons (IDP), stateless). Also included are destination country responses to asylum petitions.
+This agency gathers data that covers the movement of displaced persons (asylum seekers, refugees, internally displaced persons (IDP), and stateless). 
+
+## Our goal was to create an interactive web application to help us visualize the movement of these people. 
 
 ## Content:
 This dataset includes 6 csv files covering:

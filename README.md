@@ -5,8 +5,11 @@
   </a>
 
 ## Background:
-The mass movement of uprooted people is a highly charged geopolitical issue. This data, gathered by the UN High Commissioner for Refugees (UNHCR), covers movement of displaced persons (asylum seekers, refugees, internally displaced persons (IDP), stateless). Also included are destination country responses to asylum petitions.
+
 UNHCR, the UN Refugee Agency, is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
+
+This agency gathers data that covers the movement of displaced persons (asylum seekers, refugees, internally displaced persons (IDP), stateless). Also included are destination country responses to asylum petitions.
+
 ## Content:
 This dataset includes 6 csv files covering:
 

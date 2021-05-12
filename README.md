@@ -63,7 +63,7 @@ File Name | Contents
 
 
 
-## Demo the app:
+## Our Product:
 
 [**Click Here**](https://asylumseekersapp.herokuapp.com/)
 

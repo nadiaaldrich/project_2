@@ -6,7 +6,7 @@
 
 ## Background:
 
-UNHCR, the UN Refugee Agency, is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
+**UNHCR**, the UN Refugee Agency, is a global organization dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.
 
 This agency gathers data that covers the movement of displaced persons (asylum seekers, refugees, internally displaced persons (IDP), and stateless). 
 

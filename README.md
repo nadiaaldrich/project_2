@@ -37,10 +37,10 @@ File Name | Contents
 **demographics.csv** | host_country, total males, total females 
 **coordinates_file.csv** | host_country, lat, long, # of refugees
 
-
+---
 
 # Development: 
----
+
 <a href="https:github.com/nadiaaldrich/project_2/main/readme_images"><img width="100" align='left' src="readme_images/files_icon.png?raw=true"></a>
 <b/> 
 ---

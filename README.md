@@ -3,7 +3,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/kflores56/project_2?style=for-the-badge)
 
 
-[![Header](https://raw.githubusercontent.com/nadiaaldrich/project_2/main/project2_logo.png "Header")](https://asylumseekersapp.herokuapp.com/)
+[![Header](https://raw.githubusercontent.com/nadiaaldrich/project_2/main/readme_images/project2_logo.png "Header")](https://asylumseekersapp.herokuapp.com/)
 
 
 ---
@@ -41,19 +41,19 @@ File Name | Contents
 
 # Development: 
 ---
-<a href="https:github.com/nadiaaldrich/project_2/main"><img width="100" align='left' src="files_icon.png?raw=true"></a>
+<a href="https:github.com/nadiaaldrich/project_2/main/readme_images"><img width="100" align='left' src="readme_images/files_icon.png?raw=true"></a>
 <b/> 
 ---
 - `jupyter notebook` to rename and delete columns
 - `PostgresSQL` to create databases 
 ---
-<a href="https:github.com/nadiaaldrich/project_2/main"><img width="100" align='left' src="visuals.png?raw=true"></a> 
+<a href="https:github.com/nadiaaldrich/project_2/main/readme_images"><img width="100" align='left' src="readme_images/visuals.png?raw=true"></a> 
 <b/>
 ---
 -  `Python` and `Flask` to create APIs
 -  `Javascript, D3.js, Leaflet, Mapbox, CSS, Bootstrap, Beautify.js` to create visualizations 
 ---
-<a href="https:github.com/nadiaaldrich/project_2/main"><img width="100" align='left' src="cloud.png?raw=true"></a> 
+<a href="https:github.com/nadiaaldrich/project_2/main/readme_images"><img width="100" align='left' src="readme_images/cloud.png?raw=true"></a> 
 <b/>
 ---
 -  deployment with `Heroku`

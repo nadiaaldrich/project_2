@@ -65,16 +65,20 @@ File Name | Contents
 
 
 
-## Our Product:
+# Our Product:
 
 [**Click Here**](https://asylumseekersapp.herokuapp.com/)
 
 ---
 
+# Analysis 
 
+PENDING...
 
-### Acknowlegdements: 
-The original data was downloaded from [kaggle](https://www.kaggle.com/unitednations/refugee-data)
+---
+
+#### Acknowlegdements: 
+The original data was downloaded from [kaggle](https://www.kaggle.com/unitednations/refugee-data).
 
 
 

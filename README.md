@@ -33,9 +33,9 @@ Create an interactive web application to help us visualize the movement of peopl
 
 File Name | Contents
 ------------ | -------------
-**asylumseekersmonthly.csv** | country, month, year, # of refugees
-**demographics.csv** | country, total males, total females 
-**coordinates_file.csv** | country, lat, long, # of refugees
+**timeseries.csv** | host_country, origin, year, # of refugees
+**demographics.csv** | host_country, total males, total females 
+**coordinates_file.csv** | host_country, lat, long, # of refugees
 
 
 

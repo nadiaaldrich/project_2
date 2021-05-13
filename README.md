@@ -19,12 +19,12 @@ This agency gathers data that covers the movement of displaced persons.
 
 # Objective: 
 
-Create an interactive web application to help us visualize the movement of people seeking refuge and to answer the following:
+## Create an interactive web application to help us visualize the movement of people seeking refuge and to answer the following:
 
 
-*1. What are the top 25 countries hosting refugees?*
-*2. Question 2
-*3. Question 3
+## 1. What are the top 25 countries hosting refugees?
+## 2. What are the total number of refugees by year?
+## 3. What does the concentration of refugees look like globally? 
 
 
 ---
@@ -69,9 +69,11 @@ File Name | Contents
 
 [**Click Here**](https://asylumseekersapp.herokuapp.com/)
 
+---
 
 
-## Acknowlegdements: 
+
+### Acknowlegdements: 
 The original data was downloaded from [kaggle](https://www.kaggle.com/unitednations/refugee-data)
 
 

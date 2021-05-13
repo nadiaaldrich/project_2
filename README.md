@@ -24,12 +24,12 @@ This agency gathers data that covers the movement of displaced persons.
 
 ## 1. What are the top 25 countries hosting refugees?
 ## 2. What are the total number of refugees by year?
-## 3. What does the concentration of refugees look like globally? 
+## 3. What does the concentration of refugees look like globally in 2016? 
 
 
 ---
 
-## Data Used:
+# Data Used:
 
 File Name | Contents
 ------------ | -------------
@@ -39,7 +39,7 @@ File Name | Contents
 
 
 
-## Development: 
+# Development: 
 ---
 <a href="https:github.com/nadiaaldrich/project_2/main"><img width="100" align='left' src="files_icon.png?raw=true"></a>
 <b/> 
